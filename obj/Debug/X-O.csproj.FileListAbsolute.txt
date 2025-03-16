@@ -1,0 +1,11 @@
+E:\programming\projects\X-O\bin\Debug\X-O.exe.config
+E:\programming\projects\X-O\bin\Debug\X-O.exe
+E:\programming\projects\X-O\bin\Debug\X-O.pdb
+E:\programming\projects\X-O\obj\Debug\X-O.csproj.AssemblyReference.cache
+E:\programming\projects\X-O\obj\Debug\X_O.Properties.Resources.resources
+E:\programming\projects\X-O\obj\Debug\X-O.csproj.GenerateResource.cache
+E:\programming\projects\X-O\obj\Debug\X-O.csproj.CoreCompileInputs.cache
+E:\programming\projects\X-O\obj\Debug\X-O.exe
+E:\programming\projects\X-O\obj\Debug\X-O.pdb
+E:\programming\projects\X-O\obj\Debug\X_O.P2P_Game.resources
+E:\programming\projects\X-O\obj\Debug\X_O.Main_Menue.resources
