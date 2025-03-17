@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{95E508DA-604F-42B7-89CE-DAC8B9FC2D7D}|X-O.csproj|e:\\programming\\projects\\x-o\\p2p game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95E508DA-604F-42B7-89CE-DAC8B9FC2D7D}|X-O.csproj|solutionrelative:p2p game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E508DA-604F-42B7-89CE-DAC8B9FC2D7D}|X-O.csproj|e:\\programming\\projects\\x-o\\p2p game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95E508DA-604F-42B7-89CE-DAC8B9FC2D7D}|X-O.csproj|solutionrelative:p2p game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P2P Game.cs [Design]",
+              "DocumentMoniker": "E:\\programming\\projects\\X-O\\P2P Game.cs",
+              "RelativeDocumentMoniker": "P2P Game.cs",
+              "ToolTip": "E:\\programming\\projects\\X-O\\P2P Game.cs [Design]*",
+              "RelativeToolTip": "P2P Game.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:59:22.457Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P2P Game.cs",
               "DocumentMoniker": "E:\\programming\\projects\\X-O\\P2P Game.cs",
               "RelativeDocumentMoniker": "P2P Game.cs",
-              "ToolTip": "E:\\programming\\projects\\X-O\\P2P Game.cs",
-              "RelativeToolTip": "P2P Game.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIAwwEwAAAAQAAAAAAAAAA==",
+              "ToolTip": "E:\\programming\\projects\\X-O\\P2P Game.cs*",
+              "RelativeToolTip": "P2P Game.cs*",
+              "ViewState": "AgIAAJAAAAAAAAAAAAA4wKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T23:21:26.22Z",
               "EditorCaption": ""

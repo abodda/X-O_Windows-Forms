@@ -123,7 +123,7 @@
             this.button7.TabIndex = 16;
             this.button7.Text = "Restart Game";
             this.button7.UseVisualStyleBackColor = false;
-            this.button7.Click += new System.EventHandler(this.button7_Click);
+            this.button7.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button7_Click);
             // 
             // btn7
             // 
@@ -143,7 +143,7 @@
             this.btn7.TabIndex = 9;
             this.btn7.Tag = "?";
             this.btn7.UseVisualStyleBackColor = false;
-            this.btn7.Click += new System.EventHandler(this.btn7_Click);
+            this.btn7.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // btn8
             // 
@@ -163,7 +163,7 @@
             this.btn8.TabIndex = 8;
             this.btn8.Tag = "?";
             this.btn8.UseVisualStyleBackColor = false;
-            this.btn8.Click += new System.EventHandler(this.btn8_Click);
+            this.btn8.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // btn9
             // 
@@ -183,7 +183,7 @@
             this.btn9.TabIndex = 7;
             this.btn9.Tag = "?";
             this.btn9.UseVisualStyleBackColor = false;
-            this.btn9.Click += new System.EventHandler(this.btn9_Click);
+            this.btn9.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // btn4
             // 
@@ -203,7 +203,7 @@
             this.btn4.TabIndex = 6;
             this.btn4.Tag = "?";
             this.btn4.UseVisualStyleBackColor = false;
-            this.btn4.Click += new System.EventHandler(this.btn4_Click);
+            this.btn4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // btn5
             // 
@@ -223,7 +223,7 @@
             this.btn5.TabIndex = 5;
             this.btn5.Tag = "?";
             this.btn5.UseVisualStyleBackColor = false;
-            this.btn5.Click += new System.EventHandler(this.btn5_Click);
+            this.btn5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // btn6
             // 
@@ -243,7 +243,7 @@
             this.btn6.TabIndex = 4;
             this.btn6.Tag = "?";
             this.btn6.UseVisualStyleBackColor = false;
-            this.btn6.Click += new System.EventHandler(this.btn6_Click);
+            this.btn6.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // btn1
             // 
@@ -261,7 +261,7 @@
             this.btn1.TabIndex = 3;
             this.btn1.Tag = "?";
             this.btn1.UseVisualStyleBackColor = false;
-            this.btn1.Click += new System.EventHandler(this.btn1_Click);
+            this.btn1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // btn2
             // 
@@ -281,7 +281,7 @@
             this.btn2.TabIndex = 2;
             this.btn2.Tag = "?";
             this.btn2.UseVisualStyleBackColor = false;
-            this.btn2.Click += new System.EventHandler(this.btn2_Click);
+            this.btn2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // btn3
             // 
@@ -301,7 +301,7 @@
             this.btn3.TabIndex = 1;
             this.btn3.Tag = "?";
             this.btn3.UseVisualStyleBackColor = false;
-            this.btn3.Click += new System.EventHandler(this.btn3_Click);
+            this.btn3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.btn_Click);
             // 
             // label5
             // 

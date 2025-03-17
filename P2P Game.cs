@@ -159,12 +159,15 @@ namespace X_O
             lblWinner.Enabled = true;
 
         }
-        private void btn1_Click(object sender, EventArgs e)
+
+
+        private void btn_Click(object sender, MouseEventArgs e)
         {
             ChangeButton((Button)sender);
             Winner();
         }
-        private void button7_Click(object sender, EventArgs e)
+
+        private void button7_Click(object sender, MouseEventArgs e)
         {
             NumberOfButtonsSelected = 0;
             ResetButton(btn1);
@@ -178,46 +181,6 @@ namespace X_O
             ResetButton(btn9);
             lblWinner.Text = "In Progress";
             lblPlayerNum.Text = "1"; EnableAll();
-        }
-        private void btn2_Click(object sender, EventArgs e)
-        {
-            ChangeButton((Button)sender);
-            Winner();
-        }
-        private void btn3_Click(object sender, EventArgs e)
-        {
-            ChangeButton((Button)sender);
-            Winner();
-        }
-        private void btn4_Click(object sender, EventArgs e)
-        {
-            ChangeButton((Button)sender);
-            Winner();
-        }
-        private void btn5_Click(object sender, EventArgs e)
-        {
-            ChangeButton((Button)sender);
-            Winner();
-        }
-        private void btn6_Click(object sender, EventArgs e)
-        {
-            ChangeButton((Button)sender);
-            Winner();
-        }
-        private void btn7_Click(object sender, EventArgs e)
-        {
-            ChangeButton((Button)sender);
-            Winner();
-        }
-        private void btn8_Click(object sender, EventArgs e)
-        {
-            ChangeButton((Button)sender);
-            Winner();
-        }
-        private void btn9_Click(object sender, EventArgs e)
-        {
-            ChangeButton((Button)sender);
-            Winner();
         }
     }
 }
